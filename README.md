@@ -20,7 +20,7 @@ Flask is part of the categories of the micro-framework. Micro-framework are norm
 <br>
 
 ### Jinja2
-**[Jinja](https://jinja.palletsprojects.com/en/2.11.x/)** is a modern and designer-friendly templating language for Python, modelled after Django’s templates. It is fast, widely used and secure with the optional sandboxed template execution environment
+**[Jinja](https://jinja.palletsprojects.com/en/2.11.x/)** is a modern and designer-friendly templating language for Python, modelled after Django’s templates. It is fast, widely used and secure with the optional sandboxed template execution environment.
 
 <br><br>
 
