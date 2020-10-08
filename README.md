@@ -4,7 +4,7 @@
 
 <img src = "https://miro.medium.com/max/4096/1*tJbEjxx-ne6uUzCbqueIWg.png" width="70%">
 
-### [Flask](https://flask.palletsprojects.com/en/1.1.x/) is a web framework.
+### [Flask](https://flask.palletsprojects.com/en/1.1.x/) is a web application framework written in Python.
 This means flask provides you with **tools, libraries and technologies** that allow you **to build a web application**. <br>
 This web application can be some web pages, a blog, a wiki or go as big as a web-based calendar application or a commercial website. <br>
 
@@ -98,7 +98,5 @@ After the development server starts running, open login.html in the browser, **e
 <br>
 
 ![image](https://user-images.githubusercontent.com/65490196/95446780-64680500-097e-11eb-8443-02bbc8ac3524.png)
-
-<br>
 
 ### And we're done! We've successfully created a simple application in FLASK!
