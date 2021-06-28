@@ -16,7 +16,7 @@ Flask is part of the categories of the micro-framework. Micro-framework are norm
 ### WSGI
 **[WSGI](https://werkzeug.palletsprojects.com/en/1.0.x/)** stands for **"Web Server Gateway Interface"**. It is used to forward requests from a web server (such as Apache or NGINX) to a backend Python web application or framework. From there, responses are then passed back to the webserver to reply to the requestor.
 <br><br><br>
-<img src = "https://lwstatic-a.akamaihd.net/kb/wp-content/uploads/2019/09/WSGI.png" width="50%">
+<img src = "https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2019/09/WSGI.png" width="50%">
 <br>
 
 ### Jinja2
